@@ -1,9 +1,11 @@
 body{
   font-family: Arial;
+  background-color: bisque;
 }
 
-#main-heading{
+#quote , #main-heading{
   text-align: center;
+  font-family: cursive;
 }
 
 .grid-container{
